@@ -6,3 +6,4 @@
 ## [技术站](https://getiot.tech/)
 ## [理解机器学习：从理论到算法](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 ## [MicroGPT 交互式讲解](https://growingswe.com/blog/microgpt)
+## [TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)
