@@ -8,3 +8,4 @@
 ## [MicroGPT 交互式讲解](https://growingswe.com/blog/microgpt)
 ## [TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)
 ## [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
+## [用于数据分析的 AI Coding Agent](https://simonw.github.io/nicar-2026-coding-agents/index.html)
