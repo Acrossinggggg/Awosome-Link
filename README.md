@@ -7,4 +7,4 @@
 ## [理解机器学习：从理论到算法](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 ## [MicroGPT 交互式讲解](https://growingswe.com/blog/microgpt)
 ## [TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)
-## [TypeScript 简洁之书] (https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
+## [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
