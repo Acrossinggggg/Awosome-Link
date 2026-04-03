@@ -9,3 +9,7 @@
 ## [TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)
 ## [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
 ## [用于数据分析的 AI Coding Agent](https://simonw.github.io/nicar-2026-coding-agents/index.html)
+## [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
+## [Claude Code Unpacked](https://ccunpacked.dev/#agent-loop)
+## [Claude Code 动手教程](https://claude.nagdy.me/learn/project-setup/)
+## [解剖 .claude/ 目录（英文）](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
