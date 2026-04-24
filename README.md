@@ -13,3 +13,5 @@
 ## [Claude Code Unpacked](https://ccunpacked.dev/#agent-loop)
 ## [Claude Code 动手教程](https://claude.nagdy.me/learn/project-setup/)
 ## [解剖 .claude/ 目录（英文）](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+## [软件工程定律](https://lawsofsoftwareengineering.com)
+## [异步编程技术的演变和实际成果](https://causality.blog/essays/what-async-promised/)
