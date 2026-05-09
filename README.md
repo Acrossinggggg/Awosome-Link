@@ -15,3 +15,4 @@
 ## [解剖 .claude/ 目录（英文）](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 ## [软件工程定律](https://lawsofsoftwareengineering.com)
 ## [异步编程技术的演变和实际成果](https://causality.blog/essays/what-async-promised/)
+## [大模型运行原理](https://ynarwal.github.io/how-llms-work/)
