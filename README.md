@@ -16,3 +16,4 @@
 ## [软件工程定律](https://lawsofsoftwareengineering.com)
 ## [异步编程技术的演变和实际成果](https://causality.blog/essays/what-async-promised/)
 ## [大模型运行原理](https://ynarwal.github.io/how-llms-work/)
+## [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)
