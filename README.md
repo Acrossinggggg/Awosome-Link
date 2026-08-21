@@ -17,3 +17,7 @@
 ## [异步编程技术的演变和实际成果](https://causality.blog/essays/what-async-promised/)
 ## [大模型运行原理](https://ynarwal.github.io/how-llms-work/)
 ## [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)
+## [线性代数应该这样学](https://linear.axler.net/)
+## [PostgreSQL 适用于一切](https://www.raphaelbauer.com/posts/postgresql-everything/)
+## [SQLite 适用于一切](https://joecode.com/2026-08-19-sqlite3/)
+## [图解分布式系统原理](https://www.codedump.info/dist-system-cn/)
